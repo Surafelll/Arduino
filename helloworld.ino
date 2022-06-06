@@ -4,7 +4,8 @@ void setup() {
   Serial.println("Hello World!"); //print this
 }
 
-void loop() {
+void loop() //the loop part
+{
   // put your main code here, to run repeatedly:
 
 }
