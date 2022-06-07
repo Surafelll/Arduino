@@ -5,11 +5,11 @@ int fadeAmount = 5;
 
 void setup()
 {
-   
+    // declare pin 9 to be an output:
     pinMode(led, OUTPUT);
 }
 
-
+// the loop routine runs over and over again forever:
 
 void loop()
 {
